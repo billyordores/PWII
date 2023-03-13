@@ -1,0 +1,23 @@
+.list-of-products{
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+.product-tittle{
+    margin-right: 5px;
+}
+.material-icons{
+    margin: 5px;
+    margin-bottom: 20px;
+}
+.material-icons:hover{
+    color: red;
+    cursor: pointer;
+}
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
